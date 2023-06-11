@@ -13,7 +13,7 @@ export default function Login(){
                     <Inputs type="password" placeholder="Senha" />
                 </Form>
                
-                    <Button>Entrar</Button>
+                    <Button>ENTRAR</Button>
 
                 <Link to={`/sign-up`}>
                     <Links>Não possui uma conta? Cadastre-se!</Links>

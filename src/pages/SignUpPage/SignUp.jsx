@@ -12,7 +12,7 @@ export default function SignUp(){
                     <Inputs type="password" placeholder="Senha" />
                 </Form>
 
-                <Button>Cadastrar</Button>
+                <Button>CADASTRAR</Button>
 
                 <Link to={`/`}>
                     <Links>Já Possui uma conta? Entre</Links>
