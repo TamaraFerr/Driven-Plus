@@ -1,7 +1,7 @@
 import Logo from "../../assets/logo-plano-branco.png"
 import Icon from "../../assets/Vector.svg"
 import Money from "../../assets/Money.svg"
-import {Container, Form, Inputs, Input, Flex, Body, Icons, Top, Header, Title, Button, List, SubTitle, Plan, Description} from "./Style"
+import {Container, Form, Inputs, Input, Flex, Body, Top, Header, Title, Button, List, SubTitle, Plan, Description} from "./Style"
 
 export default function Subscriptions(){
     return(
